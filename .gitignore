@@ -1,0 +1,14 @@
+# your real key and scan output stay local
+api_key.txt
+results.csv
+
+# python junk
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# editor / os stuff
+.vscode/
+.idea/
+.DS_Store
